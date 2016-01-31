@@ -1,7 +1,7 @@
 name: 10k
 favicon: null
-layout_spectrum: 0.9623783081769943
-typography_spectrum: 0.4647208487149328
+layout_spectrum: 0.3547
+typography_spectrum: 0.14752
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.8487695155199617
+  brandStrength: 0.75
   lightness: 0.4275461216457188
   saturation: 0.6021765428595245
-  rhythmicContrast: 0.6237281744834036
+  rhythmicContrast: 0.5
 purpose: []
